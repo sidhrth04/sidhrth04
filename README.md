@@ -9,7 +9,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh575&theme=ayu-mirage)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh575" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhrth04" />
 
 
 <!---
