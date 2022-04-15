@@ -4,7 +4,6 @@ I am Siddharth Senthil, currently pursuing my Bachelor Of Technology in Computer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Siddharth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidhrth04/)](https://www.linkedin.com/in/sidhrth04/)
 [![Gmail Badge](https://img.shields.io/badge/-senthilsiddharth2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:senthilsiddharth2004@gmail.com)](mailto:senthilsiddharth2004@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://sidhrth04.github.io/portfolio/#/)](https://sidhrth04.github.io/portfolio/#/)
 
 [![sidhrth04's github activity graph](https://activity-graph.herokuapp.com/graph?username=sidhrth04&theme=xcode)](https://git.io/sidhrth04)
 
