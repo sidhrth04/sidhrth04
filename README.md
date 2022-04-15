@@ -3,8 +3,6 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=sidhrth04&label=Profile%20views&color=0e75b6&style=flat"
-    alt="sidhrth04" /> 
   </p>
   <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -59,7 +57,7 @@
       alt="nodejs" width="40" height="40" /> </a> 
 <br>
 
-<h3>Statistical Data :-</h3>
+<!-- <h3>Statistical Data :-</h3>
  
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sidhrth04&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
@@ -70,6 +68,11 @@
 <p><img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=sidhrth04&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="sidhrth04" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+      
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhrth04&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/sidhrth04)|[![sidhrth04's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sidhrth04&theme=midnight-purple&hide_border=true)](https://github.com/sidhrth04)
+|[![sidhrth04's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidhrth04&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/sidhrth04)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/sidhrth04/count.svg)
 
 [sidhrth04](https://github.com/sidhrth04)
