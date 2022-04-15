@@ -1,10 +1,10 @@
 ## Hi, I am Siddharth Senthil! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Khushi Saxena, currently pursuing my Bachelor Of Technology in Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Siddharth Senthil, currently pursuing my Bachelor Of Technology in Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-khushiSaxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidhrth04/)](https://www.linkedin.com/in/sidhrth04/)
-[![Gmail Badge](https://img.shields.io/badge/-KhushiSaxena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:senthilsiddharth2004@gmail.com)](mailto:senthilsiddharth2004@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://khushi0321.github.io/portfolio/#/)
+[![Linkedin Badge](https://img.shields.io/badge/-Siddharth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidhrth04/)](https://www.linkedin.com/in/sidhrth04/)
+[![Gmail Badge](https://img.shields.io/badge/-senthilsiddharth2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:senthilsiddharth2004@gmail.com)](mailto:senthilsiddharth2004@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://sidhrth04.github.io/portfolio/#/)](https://sidhrth04.github.io/portfolio/#/)
 
 [![sidhrth04's github activity graph](https://activity-graph.herokuapp.com/graph?username=sidhrth04&theme=xcode)](https://git.io/sidhrth04)
 
@@ -34,8 +34,8 @@ I am Khushi Saxena, currently pursuing my Bachelor Of Technology in Computer Sci
 
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Khushi0321&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi0321&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sidhrth04&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidhrth04&theme=tokyonight" />
 </p>
 
 <br>
