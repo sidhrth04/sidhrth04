@@ -61,12 +61,10 @@
 
 <h3>Statistical Data :-</h3>
  
-<p><img align="center"
+<p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sidhrth04&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="sidhrth04" 
-    bg_color=#808080/></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sidhrth04&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    bg_color=#808080/>|<img align="right" src="https://github-readme-stats.vercel.app/api?username=sidhrth04&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="sidhrth04" /></p>
 
 <p><img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=sidhrth04&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="sidhrth04" /></p>
